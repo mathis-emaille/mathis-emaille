@@ -78,7 +78,7 @@ _Cloud & AI_
 ## 🌐 Where to find me
 
 <p style="padding-left: 1.7rem;">
-  <a href="https://github.com/matlyce" target="_blank">
+  <a href="https://github.com/mathis-emaille" target="_blank">
     <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/mathis-emaille" target="_blank">
