@@ -1,108 +1,140 @@
-# 👋 Hi, I'm Mathis Emaille
+﻿# Hi there, I'm Mathis Emaille 👋
+### Full-Stack Developer • AI Integrations • C++ Systems
 
-🎓 Epitech Student (Promo 2027)  
-💻 A passionate developer exploring diverse languages and technologies  
-📍 Located in France  
-📫 Contact: mathis.emaille@gmail.com
-
----
-
-## 🚀 About me
-
-- 🔭 I work on various personal and school projects.
-- 🌱 I am constantly learning new technologies.
-- 🤝 Open to collaboration on open-source projects.
+[![GitHub](https://img.shields.io/badge/GitHub-mathis--emaille-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mathis-emaille)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathis%20Emaille-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathis-emaille)
+[![Malt](https://img.shields.io/badge/Malt-Profile-FC5757?style=for-the-badge)](https://www.malt.fr/profile/mathisemaille)
 
 ---
 
-## 🛠️ Skills
+## 🚀 Quick Intro
 
-#### Languages
+- 🇫🇷 Based in France (Lyon)
+- 🧩 I build full-stack products: frontend UX, backend APIs, and deployment pipelines.
+- 🤖 I integrate AI capabilities into real apps (automation, data, and model workflows).
+- ⚙️ I also develop high-performance C++ projects (ECS, multiplayer/game architecture).
+- 🤝 Open to freelance missions, collaboration, and product-focused opportunities.
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-FF4B4B?style=flat-square&logo=chartdotjs&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C](https://img.shields.io/badge/C-4A4A4A?style=flat-square&logo=c&logoColor=white)
+
+**DevOps / Cloud**
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Dokploy](https://img.shields.io/badge/Dokploy-000000?style=flat-square&logo=dokploy&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
+![Apache](https://img.shields.io/badge/Apache-D22128?style=flat-square&logo=apache&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=flat-square&logo=azuredevops&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+
+**AI / Data**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFCC4D?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white)
+![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logo=puppeteer&logoColor=white)
+
+---
+
+## 🏅 Certifications
+
 <table>
   <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" alt="C"/><br>C</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" alt="C++"/><br>C++</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python"/><br>Python</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/><br>PHP</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/><br>JavaScript</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/><br>TypeScript</td>
+    <td align="left" valign="top" width="50%">
+      <strong>AWS Academy Graduate</strong><br/>
+      Cloud Foundations<br/><br/>
+      <a href="https://www.credly.com/badges/56253680-f57f-4dbb-9890-0d6c7371b866/public_url">
+        <img src="assets/certifications/aws-cloud-foundations-crop.png" alt="Cloud Foundations badge" width="190" style="display:block;" />
+      </a>
+      <br/><br/>
+      <a href="https://www.credly.com/badges/56253680-f57f-4dbb-9890-0d6c7371b866/public_url">Verify on Credly</a>
+    </td>
+    <td align="left" valign="top" width="50%">
+      <strong>AWS Academy Graduate</strong><br/>
+      Cloud Web Application Builder<br/><br/>
+      <a href="https://www.credly.com/badges/27a5006b-646d-4a6f-873e-028f07cf76f8/public_url">
+        <img src="assets/certifications/aws-cloud-web-application-builder-crop.png" alt="Cloud Web Application Builder badge" width="190" style="display:block;" />
+      </a>
+      <br/><br/>
+      <a href="https://www.credly.com/badges/27a5006b-646d-4a6f-873e-028f07cf76f8/public_url">Verify on Credly</a>
+    </td>
   </tr>
 </table>
 
-#### Frameworks & Libraries
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/><br>React</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="NextJS"/><br>NextJS</td>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" alt="TailwindCSS"/><br>TailwindCSS</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="NodeJS"/><br>NodeJS</td>
-    <td align="center"><img src="https://avatars.githubusercontent.com/u/17219288?s=200&v=4" width="40" alt="Prisma"/><br>Prisma</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express"/><br>Express</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raylib.com/favicon.ico" width="40" alt="Raylib"/><br>Raylib</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" alt="ThreeJS"/><br>ThreeJS</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/symfony/symfony-original.svg" width="40" alt="Symfony"/><br>Symfony</td>
-    <td></td><td></td><td></td>
-  </tr>
-</table>
+---
 
-#### Tools
-<table>
-  <tr>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/><br>Git</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" alt="Linux"/><br>Linux</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" alt="Windows"/><br>Windows</td>
-    <td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/><br>Docker</td>
-    <td align="center"><img src="https://vercel.com/favicon.ico" width="40" alt="Vercel"/><br>Vercel</td>
-    <td align="center"><img src="https://cdn-icons-png.flaticon.com/512/5225/5225347.png" width="40" alt="SSH"/><br>SSH</td>
-  </tr>
-</table>
+## 📊 GitHub Stats
 
-## 💡 Other knowledge
-
-_Databases & Servers_  
-[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)]()
-[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)]()
-[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)]()
-[![Apache](https://img.shields.io/badge/Apache-D22128?style=for-the-badge&logo=apache&logoColor=white)]()
-[![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)]()
-[![Firewalld](https://img.shields.io/badge/Firewalld-EE0000?style=for-the-badge&logo=firewalld&logoColor=white)]()
-
-_Cloud & AI_  
-[![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)]()
-[![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)]()
-[![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC624?style=for-the-badge&logo=huggingface&logoColor=black)]()
-[![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)]()
-
-## 🌐 Where to find me
-
-<p style="padding-left: 1.7rem;">
-  <a href="https://github.com/mathis-emaille" target="_blank">
-    <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/mathis-emaille" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <!-- NPM -->
-  <a href="https://www.npmjs.com/~mathis-emaille" target="_blank">
-    <img alt="NPM" src="https://img.shields.io/badge/NPM-%23000000.svg?&style=for-the-badge&logo=npm&logoColor=white" />
-  </a>
-</p>
-
-<div align="center">
-    <table>
-        <tr>
-            <td>
-                <a href="https://github.com/mathis-emaille">
-                    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathis-emaille&theme=discord_old_blurple" alt="GitHub Profile Stats" height="200">
-                </a>
-            </td>
-            <td>
-                <a href="https://github.com/mathis-emaille">
-                    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathis-emaille&theme=discord_old_blurple" alt="Top Languages" height="200">
-                </a>
-            </td>
-        </tr>
-    </table>
+<div align="left">
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/mathis-emaille">
+          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathis-emaille&theme=discord_old_blurple" alt="GitHub Profile Graph" height="200" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/mathis-emaille">
+          <img src="https://streak-stats.demolab.com?user=mathis-emaille" alt="GitHub Overview" height="200" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
+
+---
+
+## 📫 Contact
+
+[![GitHub](https://img.shields.io/badge/GitHub-mathis--emaille-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mathis-emaille)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathis%20Emaille-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathis-emaille)
+[![Malt](https://img.shields.io/badge/Malt-Profile-FC5757?style=for-the-badge)](https://www.malt.fr/profile/mathisemaille)
+
+---
+
+![](https://hit.yhype.me/github/profile?account_id=85689655)
